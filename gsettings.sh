@@ -7,7 +7,7 @@ gsettings set org.gnome.shell.window-switcher current-workspace-only true
 
 gsettings set org.gnome.desktop.wm.keybindings begin-move "['<Alt>F7', '<Super>F7']"
 gsettings set org.gnome.desktop.wm.keybindings begin-resize "['<Alt>F8', '<Super>F8']"
-gsettings set org.gnome.desktop.wm.keybindings cycle-group "['<Alt>F6', '<Super>Equal']"
+gsettings set org.gnome.desktop.wm.keybindings switch-group "['<Alt>Equal', '<Super>Equal']"
 gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Super>t']"
 gsettings set org.gnome.desktop.wm.keybindings switch-windows-backward "['<Shift><Super>t']"
 gsettings set org.gnome.desktop.wm.keybindings raise-or-lower "['<Super>w']"
@@ -15,15 +15,6 @@ gsettings set org.gnome.desktop.wm.keybindings maximize-vertically "['<Super>e']
 gsettings set org.gnome.desktop.wm.keybindings show-desktop "['<Control><Super>d']"
 gsettings set org.gnome.desktop.wm.keybindings minimize "['<Super>h', '<Super>z']"
 gsettings set org.gnome.desktop.wm.keybindings toggle-maximized "['<Alt>F10', '<Super>x']"
-
-# Remove Super+Backtick (Caps Lock on my UK-layout Kinesis Advantage 2) from
-# the "Switch windows of an application" keyboard shortcuts because I want to
-# use it for my Slack shortcut below.
-#
-# I've already bound Super+= (the key that's actually above tab on my keyboard)
-# to cycle through the windows of the current app directly.
-gsettings set org.gnome.desktop.wm.keybindings switch-group "['<Alt>Above_Tab']"
-
 
 gsettings set org.gnome.settings-daemon.plugins.media-keys custom-keybindings "['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom2/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom3/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom4/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom5/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom6/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom7/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom8/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom9/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom10/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom11/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom12/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom13/']"
 
