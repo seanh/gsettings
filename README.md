@@ -26,7 +26,7 @@ Keyboard Shortcuts
 * <kbd><kbd>Super</kbd> + <kbd>4</kbd></kbd> Firefox
 * <kbd><kbd>Control</kbd> + <kbd>Super</kbd> + <kbd>4</kbd></kbd> New Firefox window
 * <kbd><kbd>Super</kbd> + <kbd>5</kbd></kbd> or <kbd><kbd>Super</kbd> + <kbd>f</kbd></kbd> Files
-* <kbd><kbd>Control</kbd> + <kbd>Super</kbd> + <kbd>5</kbd></kbd> or <kbd><kbd>Control</kbd> + <kbd>Super</kbd> + <kbd>5</kbd></kbd> New Files window
+* <kbd><kbd>Control</kbd> + <kbd>Super</kbd> + <kbd>5</kbd></kbd> or <kbd><kbd>Control</kbd> + <kbd>Super</kbd> + <kbd>f</kbd></kbd> New Files window
 
 * <kbd><kbd>Super</kbd> + <kbd>Caps Lock</kbd></kbd> Slack
 * <kbd><kbd>Super</kbd> + <kbd>d</kbd></kbd> Open Desktop folder in Files
