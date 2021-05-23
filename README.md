@@ -62,7 +62,8 @@ Keyboard Shortcuts
 * <kbd><kbd>Super</kbd> + <kbd>f</kbd></kbd> Switch to an open Files (Nautilus) window or open a new one
   * <kbd><kbd>Super</kbd> + <kbd>5</kbd></kbd> Does the same
   * <kbd><kbd>Control</kbd> + <kbd>Super</kbd> + <kbd>f</kbd></kbd> Open a new Files window
-  * <kbd><kbd>Control</kbd> + <kbd>Super</kbd> + <kbd>5</kbd></kbd> Does the same* <kbd><kbd>Super</kbd> + <kbd>g</kbd></kbd> Notes
+  * <kbd><kbd>Control</kbd> + <kbd>Super</kbd> + <kbd>5</kbd></kbd> Does the same
+* <kbd><kbd>Super</kbd> + <kbd>g</kbd></kbd> Open [Simplenote](https://simplenote.com/) or switch to the Simplenote window if it's already open
 
 * * *
 
