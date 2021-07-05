@@ -13,6 +13,7 @@ git clone 'https://github.com/seanh/gsettings.git' ~/.gsettings
 Keyboard Shortcuts
 ------------------
 
+* <kbd><kbd>Super</kbd> + <kbd>Escape</kbd></kbd> Does nothing because it's too easy to hit by accident
 * <kbd>F1</kbd> Open the help in many apps
 * <kbd>F2</kbd> Rename the selected file or folder in Nautilus
 * <kbd>F3</kbd> Open find-within-page in Chrome or Firefox (same as <kbd><kbd>Ctrl</kbd> + <kbd>f</kbd></kbd>). <kbd>F3</kbd> also moves to the next match when a find-within-page is active
